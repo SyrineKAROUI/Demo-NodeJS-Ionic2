@@ -1,2 +1,2 @@
 # Demo-NodeJS-Ionic2
-demo using ionic2 NodeJS (user form)
+demo using ionic2 NodeJS (form)
