@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="https://github.com/SyrineKAROUI/Demo-NodeJS-Ionic2.git" uploadOnCheckin="59eec1dd-e696-4c13-9caa-2ae77a88f768">
+    <serverData>
+      <paths name="https://github.com/SyrineKAROUI/Demo-NodeJS-Ionic2.git">
+        <serverdata>
+          <mappings>
+            <mapping deploy="https://github.com/SyrineKAROUI/Demo-NodeJS-Ionic2.git" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="https://github.com/SyrineKAROUI/Demo-NodeJS-Ionic2.git" />
+  </component>
+</project>
